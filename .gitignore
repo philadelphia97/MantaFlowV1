@@ -1,0 +1,30 @@
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
